@@ -1,0 +1,1 @@
+# vuln-aggregator-bot
