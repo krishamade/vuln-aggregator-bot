@@ -1,1 +1,1 @@
-# vuln-aggregator-bot
+cve-aggregator
